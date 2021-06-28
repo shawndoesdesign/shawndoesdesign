@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Shawn!
 
-I am just a kid that enjoys all things tech and color domains.
+Tech. Color domains. Yes.
 
 ## 👀 Interests
 
-I am currently interested in tech! My goal is to become someone who works with tech. What exact position has not been decided yet ¯\_(ツ)_/¯
-
+I make stuff. Mainly websites and Discord Bots.
 
 ## ✨ Projects
 
-[Akino](https://github.com/shawndoesdesign/akino) - Lite weight, customizable and easy to use Discord bot.
+[shawn.pink](https://shawn.pink) - This is my personal website where you probably found this Github page and my Twitter profile. :)
 
-[Pink](https://shawn.pink) - Pink is a lightning fast and easy to use URL shortener.
+[Bubble Beats](https://github.com/shawndoesdesign/bubble-beats) - Music bot that you can self host. I used to host it, but it barely worked for me. You can fix it up if you want. Just change the Lavalink credentials and prefix if you wish.
 
 ## 🌱 Currently in development
 
-[Red](https://github.com/shawndoesdesign/red) - Panel where people can make servers (containers) to host stuff like game servers, bot servers, lavalinks, etc!
+[Tidal](https://github.com/shawndoesdesign/tidal) - A bot based off the popular Fortnite creative map Tidal Tycoon where your goal is to collect all of the fish that you can. You will upgrade your rod, go to different areas, and try to catch all of the fish available in that area.
 
