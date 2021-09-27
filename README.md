@@ -10,8 +10,7 @@ I make stuff. Mainly websites and Discord Bots.
 
 [shawn.pink](https://shawn.pink) - This is my personal website where you probably found this Github page and my Twitter profile. :)
 
-[easyExpress](https://github.com/shawndoesdesign/easyExpress) - NPM package that aims to make Express even easier than it already is.
+[Basic Flask Login System](https://basic-flask-auth-demo.shawn.pink) - Basic Flask for Python login template.
 ## 🌱 Currently in development
-
-[Fruity](https://github.com/shawndoesdesign/fruity) - A fully fledged economy bot that will feature a ton of commands.
+Nothing public right now. :)
 
